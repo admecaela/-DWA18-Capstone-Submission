@@ -10,6 +10,13 @@ body, html {
 h1{
   margin: 0;
 }
+.container {
+  /* Your styling for the podcast content */
+}
+/* Media query for iPhone SE */
+@media only screen and (max-width: 320px) {
+  /* Styles for the smallest mobile device (iPhone SE) */
+}
 /* Navbar Styling */
 .navbar--section{
   display: flex;
